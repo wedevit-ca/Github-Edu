@@ -12,4 +12,9 @@
 
 3. Clicker sur **Continuer**
 
-4. Authoriser la localisation pour continuer.
+4. Authorizer la localisation pour continuer.
+
+# 2. Création d'un site HTML
+
+1. Créer un nouveau fichier appeller: index.html
+
