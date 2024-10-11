@@ -1,15 +1,15 @@
-# Github Éducation
+# 1. Github Éducation
 
-## Vous allez devoir faire une demande pour Github Éducation [ici](https://github.com/education/students).
+### Vous allez devoir faire une demande pour Github Éducation [ici](https://github.com/education/students).
 
 1. Clicker sur: <br>
 
-<img src="/images/join_git_edu.png">
+<img src="/images/join_git_edu.png" height="50px">
 
 2. Descender tous en bas de la page et entrer les informations suivantes:
 
-<img src="/images/application.png">
+<img src="/images/application.png" height="500px">
 
 3. Clicker sur **Continuer**
 
-4. Vous allez devoir authoriser la localisation pour pouvoir continuer.
+4. Authoriser la localisation pour continuer.
