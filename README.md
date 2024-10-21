@@ -19,8 +19,3 @@
 6. Envoyer le formulaire.
 
 Vous devriez recevoir un email de confirmation quelques jours plus tard.
-
-# 2. Création d'un site HTML
-
-1. Créer un nouveau fichier appelé : index.html
-
